@@ -4,6 +4,8 @@
   font-family: 'Cormorant Unicase', serif;
   background-color: #17140d;
   color: white;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
@@ -50,4 +52,8 @@
 .links {
   color: white;
   text-decoration: none;
+}
+
+.PortfolioDiv {
+  padding: 5%;
 }
